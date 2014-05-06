@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PriceMatch</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_list_sites">List Sites</string>
+    <string name="title_activity_listsites2">ListSitesActivity2</string>
+
+</resources>
