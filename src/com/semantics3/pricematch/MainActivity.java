@@ -41,8 +41,8 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		products = new Products(
-				"SEM35B72B282E4F014BCCC42D0406BCB879F",
-				"MWJhYzFmY2NmODAwMTY1Nzg0YzA1YTBlZDM1ZWUwNWU"
+				"",
+				""
 			);
 		
 		btnScan = (Button) findViewById(R.id.btnScan);
